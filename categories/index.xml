@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hemant R Joshi</title>
-    <link>http://example.org/categories/</link>
+    <link>http://joshihemant1993.github.io/categories/</link>
     <description>Recent content in Categories on Hemant R Joshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 22:17:50 +0530</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 22:17:50 +0530</lastBuildDate><atom:link href="http://joshihemant1993.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fiction</title>
-      <link>http://example.org/categories/fiction/</link>
+      <link>http://joshihemant1993.github.io/categories/fiction/</link>
       <pubDate>Tue, 01 Jun 2021 22:17:50 +0530</pubDate>
       
-      <guid>http://example.org/categories/fiction/</guid>
+      <guid>http://joshihemant1993.github.io/categories/fiction/</guid>
       <description></description>
     </item>
     

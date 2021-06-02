@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hemant R Joshi</title>
-    <link>http://example.org/</link>
+    <link>http://joshihemant1993.github.io/</link>
     <description>Recent content on Hemant R Joshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 12:20:39 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 12:20:39 +0530</lastBuildDate><atom:link href="http://joshihemant1993.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thirdpost</title>
-      <link>http://example.org/post/thirdpost/</link>
+      <link>http://joshihemant1993.github.io/post/thirdpost/</link>
       <pubDate>Wed, 02 Jun 2021 12:20:39 +0530</pubDate>
       
-      <guid>http://example.org/post/thirdpost/</guid>
+      <guid>http://joshihemant1993.github.io/post/thirdpost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book notes -- American Kingpin</title>
-      <link>http://example.org/post/american_kingpin/</link>
+      <link>http://joshihemant1993.github.io/post/american_kingpin/</link>
       <pubDate>Tue, 01 Jun 2021 22:17:50 +0530</pubDate>
       
-      <guid>http://example.org/post/american_kingpin/</guid>
+      <guid>http://joshihemant1993.github.io/post/american_kingpin/</guid>
       <description>What if truth is better than fiction? Mark Twain famously quoted —
  Truth is stranger than fiction, but it is because fiction is obliged to stick to possibilities, truth isn’t.
  In other words, fiction has to always make sense, but truth doesn’t. This is one of the biggest paradoxes in life. When we create stories, they have to be logical, otherwise, they don’t stick very well. But the truth is usually a series of random events.</description>
@@ -29,10 +29,10 @@
     
     <item>
       <title>Second Post</title>
-      <link>http://example.org/post/second-post/</link>
+      <link>http://joshihemant1993.github.io/post/second-post/</link>
       <pubDate>Sat, 29 May 2021 23:48:17 +0530</pubDate>
       
-      <guid>http://example.org/post/second-post/</guid>
+      <guid>http://joshihemant1993.github.io/post/second-post/</guid>
       <description> </description>
     </item>
     
