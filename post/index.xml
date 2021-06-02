@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hemant R Joshi</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Hemant R Joshi</description>
+    <title>Posts on Hemant R Joshi</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Hemant R Joshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 12:20:39 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 12:20:39 +0530</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thirdpost</title>
       <link>http://example.org/post/thirdpost/</link>
